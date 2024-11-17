@@ -1,101 +1,101 @@
 event_id,discipline_id,name,date
-1,2,Grand Slam Spectacle,7/6/2024
-2,2,Supreme Victory,4/14/2024
-3,2,Ultimate Triumph,1/9/2024
-4,1,Ultimate Triumph,8/27/2024
-5,9,Epic Showdown,8/19/2024
-6,6,Champion's Rivalry,4/17/2024
-7,9,Grand Slam Spectacle,5/28/2024
-8,5,Mighty Duel,8/4/2024
-9,9,Grand Slam Spectacle,11/20/2023
-10,2,Champion's Rivalry,4/2/2024
-11,4,Ultimate Triumph,8/13/2024
-12,2,Mighty Duel,12/29/2023
-13,8,Ultimate Triumph,5/13/2024
-14,3,Grand Slam Spectacle,5/19/2024
-15,2,Glory Quest,2/9/2024
-16,6,Champion's Rivalry,1/20/2024
-17,10,Mighty Duel,11/21/2023
-18,3,Grand Slam Spectacle,2/16/2024
-19,1,Ultimate Triumph,12/12/2023
-20,3,Epic Showdown,7/5/2024
-21,8,Golden Cup Championship,4/22/2024
-22,3,Golden Cup Championship,10/18/2024
-23,4,Ultimate Triumph,6/30/2024
-24,7,Grand Slam Spectacle,4/28/2024
-25,6,Victory Challenge,3/24/2024
-26,1,Mighty Duel,10/3/2024
-27,10,Supreme Victory,2/24/2024
-28,3,Thunder Clash,10/5/2024
-29,8,Thunder Clash,5/21/2024
-30,2,Thunder Clash,10/26/2024
-31,6,Champion's Rivalry,8/17/2024
-32,4,Victory Challenge,5/27/2024
-33,7,Ultimate Triumph,11/7/2024
-34,7,Ultimate Triumph,6/15/2024
-35,5,Epic Showdown,6/13/2024
-36,9,Ultimate Triumph,11/22/2023
-37,8,Grand Slam Spectacle,6/7/2024
-38,10,Supreme Victory,1/16/2024
-39,4,Grand Slam Spectacle,10/15/2024
-40,3,Epic Showdown,9/9/2024
-41,3,Supreme Victory,6/17/2024
-42,9,Thunder Clash,5/26/2024
-43,1,Golden Cup Championship,4/29/2024
-44,7,Golden Cup Championship,4/5/2024
-45,9,Epic Showdown,4/13/2024
-46,7,Thunder Clash,5/23/2024
-47,9,Ultimate Triumph,6/30/2024
-48,7,Supreme Victory,1/13/2024
-49,3,Golden Cup Championship,11/2/2024
-50,6,Champion's Rivalry,5/24/2024
-51,2,Grand Slam Spectacle,12/1/2023
-52,2,Grand Slam Spectacle,3/10/2024
-53,9,Grand Slam Spectacle,4/27/2024
-54,6,Champion's Rivalry,9/18/2024
-55,10,Thunder Clash,5/26/2024
-56,2,Thunder Clash,4/28/2024
-57,6,Epic Showdown,6/11/2024
-58,7,Thunder Clash,3/22/2024
-59,5,Mighty Duel,1/22/2024
-60,7,Thunder Clash,2/8/2024
-61,6,Ultimate Triumph,8/21/2024
-62,1,Epic Showdown,8/10/2024
-63,8,Grand Slam Spectacle,8/13/2024
-64,9,Grand Slam Spectacle,1/27/2024
-65,8,Grand Slam Spectacle,7/11/2024
-66,6,Glory Quest,5/22/2024
-67,1,Glory Quest,3/12/2024
-68,7,Ultimate Triumph,2/20/2024
-69,3,Champion's Rivalry,5/27/2024
-70,3,Mighty Duel,7/22/2024
-71,8,Thunder Clash,5/7/2024
-72,8,Ultimate Triumph,1/17/2024
-73,5,Ultimate Triumph,9/10/2024
-74,6,Thunder Clash,5/10/2024
-75,4,Epic Showdown,4/12/2024
-76,8,Thunder Clash,2/10/2024
-77,4,Ultimate Triumph,5/16/2024
-78,9,Ultimate Triumph,2/27/2024
-79,10,Golden Cup Championship,4/27/2024
-80,4,Champion's Rivalry,4/4/2024
-81,10,Supreme Victory,1/1/2024
-82,8,Supreme Victory,4/26/2024
-83,1,Epic Showdown,5/10/2024
-84,10,Ultimate Triumph,7/18/2024
-85,8,Ultimate Triumph,1/4/2024
-86,1,Ultimate Triumph,12/3/2023
-87,6,Ultimate Triumph,7/8/2024
-88,9,Supreme Victory,12/12/2023
-89,9,Ultimate Triumph,11/21/2023
-90,6,Victory Challenge,10/7/2024
-91,3,Glory Quest,11/26/2023
-92,9,Glory Quest,9/23/2024
-93,9,Grand Slam Spectacle,11/4/2024
-94,10,Victory Challenge,9/19/2024
-95,10,Supreme Victory,9/24/2024
-96,2,Supreme Victory,12/6/2023
-97,2,Ultimate Triumph,5/23/2024
-98,7,Grand Slam Spectacle,7/1/2024
-99,6,Supreme Victory,1/6/2024
-100,3,Thunder Clash,6/14/2024
+1,10,Midnight Madness,13/01/2024
+2,2,Victory Celebration,25/03/2024
+3,6,Champion's Challenge,03/04/2024
+4,10,Golden Glory,20/05/2024
+5,3,Epic Showdown,28/06/2024
+6,5,Legends Unite,19/01/2024
+7,5,Rising Stars Showcase,21/06/2024
+8,7,Ultimate Triumph,07/11/2024
+9,9,Majestic Clash,24/11/2023
+10,6,Dream Team Duel,06/01/2024
+11,1,Spectacular Showdown,25/01/2024
+12,1,Glory Quest,26/12/2023
+13,2,Mystery Matchup,22/03/2024
+14,1,Thrilling Finale,12/05/2024
+15,8,Masterful Match,06/05/2024
+16,9,Supreme Showdown,31/01/2024
+17,7,Grand Slam Gala,19/01/2024
+18,2,Victory Parade,25/02/2024
+19,4,Champion's Quest,15/09/2024
+20,2,Legendary Showdown,10/03/2024
+21,4,Epic Encounter,06/06/2024
+22,10,Golden Triumph,24/10/2024
+23,4,Dream Team Challenge,15/11/2024
+24,6,Spectacular Victory,05/03/2024
+25,10,Majestic Matchup,14/03/2024
+26,9,Rising Stars Rumble,20/12/2023
+27,5,Ultimate Glory,02/09/2024
+28,9,Legends' Legacy,12/09/2024
+29,9,Epic Triumph,23/06/2024
+30,3,Champion's Clash,10/02/2024
+31,3,Golden Showdown,06/01/2024
+32,10,Victory Quest,25/02/2024
+33,6,Majestic Victory,01/04/2024
+34,8,Dream Team Showdown,12/04/2024
+35,8,Legendary Triumph,17/06/2024
+36,4,Supreme Victory,23/12/2023
+37,2,Epic Quest,25/03/2024
+38,3,Rising Stars Clash,17/07/2024
+39,10,Ultimate Challenge,20/06/2024
+40,4,Glory Showdown,12/09/2024
+41,8,Champion's Triumph,09/12/2023
+42,7,Golden Challenge,16/03/2024
+43,3,Victory Showdown,30/07/2024
+44,8,Majestic Triumph,21/03/2024
+45,8,Dream Team Triumph,11/05/2024
+46,2,Midnight Madness,16/07/2024
+47,9,Victory Celebration,11/04/2024
+48,4,Champion's Challenge,19/09/2024
+49,2,Golden Glory,30/03/2024
+50,8,Epic Showdown,21/08/2024
+51,3,Legends Unite,09/05/2024
+52,5,Rising Stars Showcase,16/10/2024
+53,2,Ultimate Triumph,22/03/2024
+54,4,Majestic Clash,01/09/2024
+55,9,Dream Team Duel,26/01/2024
+56,7,Spectacular Showdown,01/07/2024
+57,2,Glory Quest,12/01/2024
+58,6,Mystery Matchup,27/01/2024
+59,1,Thrilling Finale,21/03/2024
+60,6,Masterful Match,20/07/2024
+61,2,Supreme Showdown,17/04/2024
+62,3,Grand Slam Gala,11/12/2023
+63,1,Victory Parade,17/05/2024
+64,8,Champion's Quest,01/07/2024
+65,6,Legendary Showdown,22/04/2024
+66,4,Epic Encounter,11/11/2024
+67,7,Golden Triumph,01/02/2024
+68,9,Dream Team Challenge,23/06/2024
+69,2,Spectacular Victory,29/12/2023
+70,8,Majestic Matchup,23/12/2023
+71,4,Rising Stars Rumble,28/06/2024
+72,3,Ultimate Glory,09/05/2024
+73,7,Legends' Legacy,19/03/2024
+74,3,Epic Triumph,03/12/2023
+75,6,Champion's Clash,22/04/2024
+76,5,Golden Showdown,13/07/2024
+77,4,Victory Quest,09/05/2024
+78,1,Majestic Victory,14/08/2024
+79,10,Dream Team Showdown,05/11/2024
+80,8,Legendary Triumph,12/08/2024
+81,5,Supreme Victory,15/09/2024
+82,9,Epic Quest,01/04/2024
+83,7,Rising Stars Clash,10/06/2024
+84,8,Ultimate Challenge,31/03/2024
+85,8,Glory Showdown,08/12/2023
+86,7,Champion's Triumph,13/02/2024
+87,10,Golden Challenge,06/05/2024
+88,5,Victory Showdown,08/10/2024
+89,10,Majestic Triumph,19/02/2024
+90,5,Dream Team Triumph,13/01/2024
+91,3,Midnight Madness,16/10/2024
+92,1,Victory Celebration,19/11/2023
+93,6,Champion's Challenge,20/11/2023
+94,7,Golden Glory,04/12/2023
+95,5,Epic Showdown,15/03/2024
+96,4,Legends Unite,29/01/2024
+97,2,Rising Stars Showcase,28/05/2024
+98,5,Ultimate Triumph,19/01/2024
+99,9,Majestic Clash,24/12/2023
+100,9,Dream Team Duel,15/08/2024
